@@ -1,0 +1,31 @@
+DELL@ABHIJEET MINGW64 /g/Credit Suisse/Learn_microservices/My-app (master)
+$ touch .gitignore
+
+DELL@ABHIJEET MINGW64 /g/Credit Suisse/Learn_microservices/My-app (master)
+$ git add .
+
+DELL@ABHIJEET MINGW64 /g/Credit Suisse/Learn_microservices/My-app (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   .gitignore
+
+
+DELL@ABHIJEET MINGW64 /g/Credit Suisse/Learn_microservices/My-app (master)
+$ git add .
+
+DELL@ABHIJEET MINGW64 /g/Credit Suisse/Learn_microservices/My-app (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   .gitignore
+
+
+DELL@ABHIJEET MINGW64 /g/Credit Suisse/Learn_microservices/My-app (master)
+$ ls
+app.js  Documentation/  index.html
+
+DELL@ABHIJEET MINGW64 /g/Credit Suisse/Learn_microservices/My-app (master)
+$
